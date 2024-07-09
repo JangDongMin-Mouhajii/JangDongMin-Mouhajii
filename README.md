@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am currently working as a branding designer at a food franchise company,
+ 🔭 I am currently working as a branding designer at a food franchise company,**
  and I am studying and working on projects to transition into a developer role**
  
  🌱 I’m currently learning **Docker, Next.js, Node.js**
