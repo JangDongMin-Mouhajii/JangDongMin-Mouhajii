@@ -10,12 +10,13 @@
 
 <div align="center">
  
- 🔭 I am currently working as a branding designer at a food franchise company,**
- and I am studying and working on projects to transition into a developer role**
+ 🔭 I am currently working as a branding designer at a food franchise company
  
- 🌱 I’m currently learning **Docker, Next.js, Node.js**
+ 🧑🏻‍💻 I am studying and working on projects to transition into a developer role
+ 
+ 🌱 I’m currently learning **Docker, React, Next.js, Node.js
 
-💬 Ask me anything [here](https://github.com/JangDongMin-Mouhajii/JangDongMin-Mouhajii/issues)**
+💬 Ask me anything [here](https://github.com/JangDongMin-Mouhajii/JangDongMin-Mouhajii/issues)
 
  </div>
  
@@ -26,9 +27,9 @@
   <a href="https://www.linkedin.com/in/dongmin-jang-788a47231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+  <a href="https://mouhajii-designer.notion.site/MOUHAJII-ceb19ff0e5774e9d847582efe13eebfc?pvs=4" target="_blank">
+     <img src="https://img.shields.io/badge/Design.Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a> 
 </div>
 
  <hr/>
@@ -36,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,ai,ps,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,nextjs,mysql" /><br>
 </div>
 
 <br/>
