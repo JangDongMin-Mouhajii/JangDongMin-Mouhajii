@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am currently working as a branding designer at a food franchise company
+ 🔭 I am currently working as a branding designer at a Food Franchise Company
  
  🧑🏻‍💻 I am studying and working on projects to transition into a developer role
  
