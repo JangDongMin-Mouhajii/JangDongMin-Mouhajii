@@ -14,7 +14,7 @@
  
  🧑🏻‍💻 I am studying and working on projects to transition into a developer role
  
- 🌱 I’m currently learning **Docker, React, Next.js, Node.js
+ 🌱 I’m currently learning **Docker, React, Next.js, Node.js, Nest.JS**
 
 💬 Ask me anything [here](https://github.com/JangDongMin-Mouhajii/JangDongMin-Mouhajii/issues)
 
